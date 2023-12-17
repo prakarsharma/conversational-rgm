@@ -1,0 +1,17 @@
+Question: Which retailer has the highest average elasticity?
+Answer: {'metric':'average elasticity', 'by':['retailer'], 'nth':1}
+
+Question: Which retailer has the highest value share?
+Answer: {'metric':'value share', 'by':['retailer'], 'nth':1}
+
+Question: Which retailer has the second highest average elasticity?
+Answer: {'metric':'average elasticity', 'by':['retailer'], 'nth':2}
+
+Question: Which retailer has the lowest average elasticity?
+Answer: {'metric':'average elasticity', 'by':['retailer'], 'nth':-1}
+
+Question: Which retailer has the second lowest average elasticity?
+Answer: {'metric':'average elasticity', 'by':['retailer'], 'nth':-2}
+
+Question: Which retailer's average elasticity is just more than the lowest?
+Answer: {'metric':'average elasticity', 'by':['retailer'], 'nth':-2}
