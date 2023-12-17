@@ -1,0 +1,9 @@
+openai
+dotenv
+panel
+streamlit
+llama-index
+nltk
+toml
+pypdf
+docx2txt
